@@ -9,4 +9,4 @@ def factorial(n):
 # function call 
 num = int(input())
 print(f"Enter a number: {num}")
-print(f"Factorial of {num} is:" , factorial(num))
+print(f"Factorial of {num} is: {factorial(num)}")
